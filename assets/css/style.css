@@ -740,7 +740,7 @@
     padding: 6px 16px;
     position: relative;
     cursor: pointer;
-    z-index: 80;
+    z-index: 99;
 }
 
 .header__search-select-label {
